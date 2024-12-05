@@ -42,6 +42,7 @@ public class Practice3 {
         }
         System.out.println("Max is : " + max);
         Arrays.sort(scores);
+        
         System.out.println("Final Scores: ");
         System.out.println(Arrays.toString(scores));
     }
